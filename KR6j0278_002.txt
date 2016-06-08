@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:12.609253
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:44
 #+TITLE: 聖賀野紇哩縛大威怒王立成大神驗供養念誦儀軌法品
 #+PROPERTY: CBETA_ID T20n1072A
 #+PROPERTY: ID KR6j0278
